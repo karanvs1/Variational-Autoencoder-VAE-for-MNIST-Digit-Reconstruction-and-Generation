@@ -30,8 +30,8 @@ This project implements a **Variational Autoencoder (VAE)** to reconstruct and g
 ### **Setup and Installation**
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/karanvs1/Variational-Autoencoder-VAE-for-MNIST-Digit-Reconstruction-and-Generation.git
+   cd Variational-Autoencoder-VAE-for-MNIST-Digit-Reconstruction-and-Generation
    ```
 2. Install dependencies:
    ```bash
